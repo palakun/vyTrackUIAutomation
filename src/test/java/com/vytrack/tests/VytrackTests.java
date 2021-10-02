@@ -1,4 +1,6 @@
 package com.vytrack.tests;
 
-public class LoginPageTest {
+public class VytrackTests {
+
+
 }
